@@ -1,7 +1,7 @@
 # chat project 
 # Abdelhaq Lahcini - Full Stack Developer
 
-Welcome to my GitHub repository! Here you'll find various projects I've worked on, ranging from web development to software engineering. Feel free to explore and provide feedback.
+Welcome to my GitHub repository! Here you'll find various projects I've worked on, ranging from web development  . Feel free to explore and provide feedback.
 
 ## Portfolio
 
